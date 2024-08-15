@@ -1,0 +1,11 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#FFF" stroke="#000" stroke-width="2">
+    <!-- Parte superior del sombrero -->
+    <ellipse cx="25" cy="15" rx="20" ry="10" fill="#FFF" />
+    <!-- Parte inferior del sombrero -->
+    <rect x="5" y="15" width="40" height="20" rx="10" ry="10" fill="#FFF" />
+    <!-- Pliegues del sombrero -->
+    <path d="M 10 15 Q 15 20 20 15" stroke="#000" fill="none" />
+    <path d="M 30 15 Q 35 20 40 15" stroke="#000" fill="none" />
+  </g>
+</svg>
